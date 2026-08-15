@@ -22,7 +22,7 @@ const status = document.getElementById("status");
 //
 // Por ahora dejamos una dirección vacía.
 
-const NOVA_API = "";
+const NOVA_API = "/api/chat";
 
 
 // =====================================================
